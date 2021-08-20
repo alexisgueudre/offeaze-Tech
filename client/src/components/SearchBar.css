@@ -1,0 +1,13 @@
+.bar-center
+{
+    text-align: -webkit-center;
+}
+.rounded {
+    border-radius: 1.25rem!important;
+}
+#search-addon
+{
+    font-size: 22px;
+    color: orange;
+    background-color: transparent;
+}

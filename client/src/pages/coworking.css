@@ -1,0 +1,41 @@
+.size-cards
+{
+    width: 18rem;
+}
+.white
+{
+    color: white;
+}
+.btn-orange
+{
+    color: white;
+    background-color: orange;
+}
+.border-location
+{
+    border-bottom: solid 2px darkgrey;
+}
+
+.border-price
+{
+    border-right: solid 3px orange;
+}
+.card-img-top
+{
+    margin-top: 5px;
+    padding: 10px;
+    border-radius: 40px;
+    height: 500px !important;
+}
+.blue
+{
+    color: #64709f;
+}
+.popup-content
+{
+    width: 650px!important;
+}
+#start
+{
+    color: #64709f;
+}
